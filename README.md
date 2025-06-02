@@ -8,7 +8,7 @@ Este projeto é um programa em C que permite cadastrar duas cartas do Super Trun
 ## Como usar
 
 1. Compile com `gcc super_trunfo.c -o super_trunfo`
-2. Execute com `./super_trunfo` no Linux/macOS ou `.\super_trunfo.exe` no Windows.
+2. Execute com `super_trunfo.exe` no Windows.
 3. Siga as instruções na tela para inserir os dados.
 
 ---
